@@ -1,0 +1,340 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat',sans-serif;
+}
+
+.bar{
+    background-color: white;
+    height: 61px;
+    width: 100%;
+}
+.bar-one{
+    margin-left: 105px;
+    padding: 5px;
+    margin-top: 13px;
+}
+.zero{
+     background-color: #7fc0ca ;
+     height: 100%;
+     padding-bottom: 88px;
+}
+.task{
+     font-family: 'Montserrat',sans-serif;
+      color: white;
+}
+h2{
+    font-weight: 500;
+    font-size: 40px; 
+    padding:90px;
+    margin-left:24px;
+}
+.business{
+    font-size:20px;
+    margin-top: -64px;
+    margin-left: 119px;
+    line-height: 33px;
+    text-align: left;
+    width: 50%;
+}
+.contact{
+    color: rgb(83, 72, 72);
+    padding: 23px 0px;
+    border-radius: 47px;
+    margin-left: 122px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;   
+    margin-top: 55px;
+    border-style: none;
+}
+.done{
+    text-align: center;
+    width: 100%;
+    font-family:'Montserrat',sans-serif;
+   
+}
+.pro{
+    font-size:31px;
+    font-weight: 40;
+    color: rgb(66, 64, 64);
+}
+.from{
+    margin-top: -75px;
+    font-size: 19px;
+    padding-bottom: 125px;
+    color: rgb(90, 86, 86);
+}
+.image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: -58px;
+}
+img{
+    width: 90%;
+    height: 90%;
+}
+.album{
+    margin-top: -17px;
+    width:28%;
+    height: 300px; 
+
+}
+.talk{
+    background-color: #333333;
+    height:90%;
+    padding-bottom:84px;
+    margin-top: 43px;
+}
+.human{
+    font-family:'Montserrat',sans-serif; 
+    color: rgb(255, 252, 252);
+    margin-left: 19px;
+    font-size: 36px;
+    padding-top: 69px;
+
+}
+.class1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:-55px;
+    justify-content: center;
+    font-family:'Montserrat',sans-serif; 
+}
+.manager_sir{
+    background-color: white;
+    width: 26%;
+    height: 100%;
+    margin-right:20px;
+    margin-left: 27px;
+}
+.stella{
+    font-size: 20px;
+    margin-left: -49px;
+    margin-top: -54px;
+    color: rgb(100, 97, 97);
+}
+.manager_one{
+    font-size:16px;
+    color:#c6dfe4;
+    margin-top: -70px;
+    margin-left: 42px;
+    font-weight: lighter;
+}
+.enim{
+    font-size: 18px;
+    color: rgb(104, 94, 94);
+    line-height: 30px;
+    margin-left:44px ;
+    margin-top: 33px;
+}
+.enim_one{
+    margin-left: 44px ;
+    font-size: 15px;
+    color: #bcbcbc ; 
+    margin-top: 36px;
+    margin-bottom: 40px;
+}
+.nick{
+    font-size: 20px;
+    margin-left: -49px;
+    margin-top: -54px;
+    color: rgb(100, 97, 97);
+}
+.developer_one{
+    font-size:16px;
+    color:#c6dfe4;
+    margin-top: -70px;
+    margin-left: 42px;
+    font-weight: lighter;
+}
+.enim{
+    font-size: 18px;
+    line-height: 30px;
+    margin-left:44px ;
+    margin-top: 33px;
+}
+.olga{
+    font-size: 20px;
+    margin-left: -49px;
+    margin-top: -54px;
+    color: rgb(100, 97, 97);
+}
+.design_one{
+    font-size:16px;
+    color:#c6dfe4;
+    margin-top: -70px;
+    margin-left: 42px;
+    font-weight: lighter;
+}
+.enim{
+    font-size: 18px;
+    line-height: 30px;
+    margin-left:44px ;
+    margin-top: 23px;
+}
+.can{
+    text-align: center;
+    width: 100%;
+    font-family:'Montserrat',sans-serif;
+}
+.our_two{
+    margin-top: -22px;
+    font-size: 40px;
+    color: rgb(104, 102, 102);
+    font-weight: -5px;
+}
+.velit{
+    font-size: 18px;
+    margin-top: -84px;
+    line-height: 40px;
+    color: rgb(65, 57, 57);
+}
+.velit_two{
+    font-size:18px;
+    color: rgb(65, 57, 57);
+}
+.velit_three{
+    margin-top: 18px;
+    font-size: 18px;
+    line-height:40px ;
+    color: rgb(65, 57, 57);
+}
+.velit_four{
+    font-size: 18px;
+    color: rgb(65, 57, 57);
+}
+.image-one{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top:47px;
+    
+}
+.they{
+    background-color: black;
+     width: 100%;
+     font-family:'Montserrat',sans-serif;
+     color: white;
+     display: flex;
+     justify-content: space-around; 
+     padding-bottom: 48px;
+}
+.are{
+      width: 50%;
+}
+.are_one{
+      font-size: 30px;
+      margin-left: 14px;
+}
+.mail img{
+    width: 50px;
+    height: 50px;
+}
+.mail{
+    margin-left: 105px;
+    margin-top: -73px;
+}
+.mail_one{
+     margin-left: 102px;
+     line-height: 40px;
+     font-size: 15px;
+}
+.sample{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: -26px;
+}
+.time{
+    border: 1px solid white;
+    width: 468px;
+    margin-left: 99px;
+    margin-top: 20px;
+}
+.time_one{
+    font-size: 18px;
+    margin-top: 99px;
+    margin-left: 98px;
+}
+.cont{
+    width: 25%;
+    margin-left: -67px;
+    margin-top: 6px;
+}
+.cont_us{
+    font-size: 20px;
+    margin-left: -75px;
+    margin-bottom: -61px;
+}
+.wal{
+    text-align: left;
+    margin-left: 17px;
+    font-size: 18px;
+    line-height: 26px;
+}
+.tel{
+    margin-top: 48px;
+    font-size: 21px;
+    margin-left: 18px;
+}
+.text{
+    margin-top: 171px;
+    font-size: 18px;
+    margin-left: 16px;
+    line-height: 25px;
+}
+.social{
+    width: 25%;
+}
+.social-one{
+    font-size: 20px;
+    margin-left: -86px;
+    margin-top: 10px;
+}
+.icon{
+    margin-top: -53px;
+}
+.man img{
+    margin-top: 112px;
+    width: 50%;
+    height: 150px;
+}
+.one{
+    margin-top: 133px;
+    margin-left: -511px;
+}
+.last{
+    margin-left: -424px;
+    margin-top: -58px;
+    font-size: 15px;
+}
+.two{
+    margin-bottom: 41px;
+    margin-top: 93px;
+    margin-left: -500px;
+    font-size: 15px;
+    color:#c7e5ea ;
+    text-decoration:underline;
+}
+.three{
+    font-size: 15px;
+    color:#c7e5ea ;
+    text-decoration:underline;
+    margin-top: -17px;
+    margin-left: -330px;
+}
+
+
+
+
+
+
+
+
+    
+
+
